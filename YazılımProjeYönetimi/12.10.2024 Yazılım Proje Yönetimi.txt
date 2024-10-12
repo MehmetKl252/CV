@@ -1,0 +1,13 @@
+Hangi ana adımlar nasıl kullanılır anlatılır. Kodla düzelt (code and fix)--> analiz-kod kodla düzelt
+Bireysel geliştiriciler için uygun takımlar için uygun değil. Geliştiriciler tarafından kullanılacaksa bu bir avantaj olabilir. Müşterinin sürece dahil edilmemesi kullanıcı ihtiyaçlarına uygun olmaması dezavantaj
+Temel çağlayan modeli: Yazılım gereksinimi-tasarım-gerçekleştirim-test-işlem ve bakım. Temel çağlayan modelinde bir önceki faz tamamlanmadan bir sonraki faz başlamaz, iterasyonlar tekrarlanabilir. Kısıtlı zaman 
+Ve bütçeye göre projelerde iyi çalışır. Test aşaması geliştirme sürçenin en sonunda yapılır çözümlemenin önüne bir öntasarım aşaması eklenir böylece kısıtlamalar önceden anlaşılabilir. Her aşamanın sonuna genişletilmiş belgelendirme bırakılır. Özelikle yazılım gereksiniminden sonra prototip yapma bize geri bildirim sağlayacak tasarım ya da kodlama aşamasında müşteri dahil etmek gerekir. Çağlayan modeli dezavantajı iki yada daha önceki fazlara gitmek çok maliyetlidir. Bir fazı bitirmeden diğerine geçmek riski artırır.
+V modeli: Gereksinim ve kabul testinden oluşur. V şeklindedir. Kodlama en uçta yer alır kodlama bitikte sonra birim testi yaparak yukarıya doğru gider. Kolay kullanımı var, risk çözümleme aktivitesi içermez fazlar arası tekrarlamalar kullanmaz.
+Evrimsel geliştirme: gereksinim-kod-test- iterasyonlar ve ara versiyonlar çıkarılıyor burada her versiyon yeni
+Bir yazılım gibidir. İki çeşit evrimsel geliştirme vardır. Evrimsel geliştirme kullanıcılar kendi gereksinimlerini daha iyi anlamalarını sağlar. Çağlayanda ise her şey bittikten sonra müşteri önüne bırakılıyor. 500 000 LOC(kod satırı demek) dan az olan projede kullanılabilir.
+Prototiplemede gereksinimler netleştikçe prototip düzeltilir. 
+Spiral model: İçten başlayıp halka halka büyüyor. 4 renk varır iterasyon risk değerlendirmesi yapar. 
+Her Spiral halka bir fazı gösterir. hedeflerin belirlenmesi 1. adım(-x+y), 2. adım risk belirleme (+x+y)  3. adım geliştirme ve geçerleme (+x-y), 4. adım planlama (-x-y)
+Avantajları: küçük parçalara böler ve riskli adımlar önceden görülebilir. Dezavantajı spiral sonsuza gidebilir. Formal Sistem Geliştirme: bu tekniği uygulayabilmek için eğitim ve özel beceriler gerekmektedir. Bazı kısımlarını formal olarak belirtmek zordur. Emniyet ve güvenlik durumları sağlanması durumunda uygulanabilirliği bakımından gereklidir.
+Bileşene dayalı yazılım mühendisliği burada kalındı.
+

@@ -1,8 +1,0 @@
-YAZILIM GELİŞTİRME ORTAMLARI, METRİKLER VE MODELLER
-Bir yazılım kodları %80 test edilebilir olması gerekiyor farklı yazılımlar için entegrasyon testi gerekiyor manitanca yazılımın kırılmadan sürdürülebilir yapılması gerekiyor. bir yazılımın
-Fiyatı 1 birim ise bakım maliyeti 9 iş birimi olur. şelale modelinde sıra, doğrusal bir yapı var, v-shape v şekilde de her aşama test ile ilişkilendirilmiş durumda, spiral modelde sarmal 
-Bir yapı var (planlama-risk analizi-gerçekleştirme-değerlendirme) özellikle risk değerlendirme ve prototipleme gerçekleştirdiği istek bir model olduğu söylenebilir. çevik agile modeli sürekli teslimat ve değişiklik durum diyagramları sıklıkla kullanılır. müşteri isteklerini bu diyagramlar yardımıyla ifade eder.(scrum-kanban-extreme-lean) kullanılır.
-
-planlama araçları: bir yazılım ise temel ihtiyaçları belirlenmeli he iş paketinde risk analizi yapılır. Microsoft Project, projenizin adım adım nasıl gerçekleştirileceğini planlamak için zaman çizelgeleri oluşturmanıza olanak tanır. Başlangıç ve bitiş tarihlerini belirleyerek projenizin zaman çizelgesini oluşturabilir, görevleri sıralayabilir ve süreleri atayabilirsiniz.
-Proje yönetiminde kullanılarak bir zaman ölçeğine göre görevlerin planlanması için Gantt Çizelgesi kullanılan bir araçtır. 
-Genel olarak risklerin değerlendirmesi gerekiyor bu ürün lokalde mi yoksa buluta mı çalışacak oksa mobilde mi çalıştırılacak buna göre riskle değerlendirmek gerekir.

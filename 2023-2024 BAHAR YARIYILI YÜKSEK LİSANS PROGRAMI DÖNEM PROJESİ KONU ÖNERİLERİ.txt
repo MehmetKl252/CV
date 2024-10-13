@@ -1,0 +1,82 @@
+B- 2023-2024 BAHAR YARIYILI YÜKSEK LİSANS PROGRAMI DÖNEM PROJESİ KONU ÖNERİLERİ:
+1. Toplum 5.0
+2. Endüstri 4.0’ın gelişim süreci (özellikle aranılan eleman ihtiyacı değişiyor buna vurgu yapılabilir)
+3. Tarım 4.0
+4. Pazarlama 4.0
+5. Algoritma ve mantıksal tasarım
+6. Dijital Dönüşüm
+7. Sürdürülebilir kalkınma ve teknoloji
+8. Akıllı ulaşım sistemleri
+9. Akıllı Fabrikalar – Smart Fabrics
+10. Nesnelerin İnterneti (Internet of Thins – IoT)
+11. Dijital İkiz (Digital Twin)
+12. Quantum Computing
+13. 5G
+14. Blockchain for data security
+15. Software defined security
+16. Agumented reality (Artırılmış gerçeklik)
+17. Virtual reality (Sanal gerçeklik)
+18. Karma gerçeklik (bu kapsamda hololens)
+19. Gesture based (Hareket temelli işlemler) sistemler
+20. Giyilebilir teknolojiler
+21. 3B sanal dünyalar
+22. 3B yazıcılar
+23. Machine Learning – Deep Learning
+24. Yapay zeka
+25. Veri madenciliği
+26. Learning analytics
+27. Adaptive Learning (Uyarlanabilir Öğrenme) ( yapay zeka ve derin öğrenme ile ilişkisinden
+bahsedilebilir)
+28. Büyük veri/bigg data
+29. Emotion AI
+30. Adaptive Machine Learning
+31. Sesli/Kişisel asistanlar
+32. EEG Sensörler
+33. Brain Computer Interface
+34. Cognitive Computing
+35. Biochips
+36. Affective Computing
+37. Bulut bilişim ve etkileri (ders bilgi sistemi, öğretim yönetim sistemi ile ilişkisi ve sağladığı faydalar)
+38. LMSs
+___________________
+Prof. Dr. Yüksel GÖKTAŞ
+yukselgoktas@atauni.edu.tr - yukselgoktas yukselgoktas25 yukselgoktas
+39. MOOCS
+40. E-book
+41. Z-Book
+42. Mobil öğrenme
+43. Ubiquitous Learning (her yerde öğrenme)
+44. STEM+A
+45. Robotics ve Robotik Kodlama
+46. Çocuk programlama araçları (Scratch, Blockly, Alice, Kodu vb…)
+47. Raspberry Pi
+48. Arduino
+49. RFID
+50. NFC
+51. Gamification
+52. Akıllı oyuncaklar
+53. Çizgi filmler
+54. Videoblog/ Youtube/ Youtuber
+55. Unplugged learning
+56. Maker movement/Maker spaces
+57. 1:1 initatives
+58. Google classroom
+59. Flipped classroom
+60. Creative Commons
+61. Duygusal Zeka ve Teknoloji
+62. Dronlar
+63. Maieutic
+64. Transfer Learning
+65. Mobil reklamcılık
+66. Otomobil teknolojileri ve BT
+67. Afet yönetim sistemlerinde BT kullanımı
+68. Okul dışı öğrenme ortamlarının teknolojiyle zenginleştirilebilmesi
+69. Kurumsal siber güvenliğe yönelik tehditler
+70. Otonom Sınır Güvenliği
+71. Sosyal Medya İstihbaratı SOCMINT
+72. Deep Fake Video üretimi ve Deep Fake ile yapılmış video tespit yöntemleri,
+73. Human Robot Interaction
+74. Giyilebilir teknolojilerde siber Güvenliğin Önemi
+75. Sesli/Kişisel asistanlar
+76. Brain Computer İnterface
+77. Software defined security

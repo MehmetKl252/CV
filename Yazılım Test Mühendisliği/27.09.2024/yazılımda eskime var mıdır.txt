@@ -1,0 +1,10 @@
+yazılımda eskime var mıdır?
+beklene ile gerçekleşenin aynı olması gerekiyor
+
+https://www.codex.com.tr/urunlerimiz
+https://dhalsim.github.io/software/2015/11/14/software-development-processes#v-shaped-model
+https://www.turkishtestingboard.org/          		yazılım testi sertifikası
+
+https://dhalsim.github.io/software/2015/11/14/software-development-processes#v-shaped-model	:Yazılım Geliştirme Modelleri
+
+https://eski.tbd.org.tr/index.php?sayfa=sozluk&mi1		:Bilişim Sözlüğü
